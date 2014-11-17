@@ -1,4 +1,4 @@
 Bash
 ====
 
-Bash scripts
+Bash scripting for fun.
