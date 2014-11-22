@@ -3,7 +3,7 @@
 START=$(date +%s)
 echo 'Timer has Started...'
  
-while 1; 
+while true; 
 do
    TIMENOW=$(date +%s)
    let DIFF=$(($TIMENOW - $START))
